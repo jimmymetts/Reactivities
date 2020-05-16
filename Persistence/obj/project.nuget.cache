@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dI/OXi0AlGKHjg75y64nvolh+cXLguvxOE0y4AKelBRWc87EIPdds4Gs2QqRqBhJqUnmgmQCXVYvS0uNCzOQEA==",
+  "success": true,
+  "projectFilePath": "/Users/metts/Workspace/Reactivities/Persistence/Persistence.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
